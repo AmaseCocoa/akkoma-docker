@@ -1,0 +1,3 @@
+[submodule "akkoma"]
+	path = akkoma
+	url = https://akkoma.dev/AkkomaGang/akkoma.git
